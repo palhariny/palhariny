@@ -1,7 +1,7 @@
 # Quem sou eu
 * a ser feito *
 
-# O que eu faço
+# O que faço
 * a ser feito *
 
 # Projetos pessoais
