@@ -14,4 +14,4 @@
 
 ...mais a adicionar.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?palhariny=anuraghazra&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?palhariny=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
