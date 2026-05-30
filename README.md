@@ -1,4 +1,8 @@
-<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="100%" />
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Banner animado" width="800"/>
+</p>
+
 
 # Quem sou eu
 * a ser feito *
