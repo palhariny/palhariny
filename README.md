@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif)
+<img src="https://i.pinimg.com/originals/9c/8c/db/9c8cdbb2bd7b637edd5b3a767b74153a.gif" width="100%" />
 
 # Quem sou eu
 * a ser feito *
