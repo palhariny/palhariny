@@ -3,7 +3,7 @@
 # Quem sou eu
 * a ser feito *
 
-# O que faço
+# Linguagens & Ferramentas
 * a ser feito *
 
 # Projetos pessoais
